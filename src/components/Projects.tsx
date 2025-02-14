@@ -7,7 +7,7 @@ function Projects() {
     <BrowserRouter>
     <section id="projects" style={{ 
       padding: '50px 20px',
-      backgroundColor: '',
+      backgroundColor: '#000',
       display: 'flex',
       justifyContent: 'center',
       boxSizing: 'border-box'
@@ -20,7 +20,7 @@ function Projects() {
         <h2>Projects</h2>
         <p>Your projects content will go here</p>
         <p>Auto Shahzam</p>
-        <li><Link to="/projects" style={{ textDecoration: 'none', color: '#000' }}>autoShahzam</Link></li>
+        <li><Link to="/projects" style={{ textDecoration: 'none', color: '#333' }}>autoShahzam</Link></li>
       </div>
     </section>
     </BrowserRouter>
