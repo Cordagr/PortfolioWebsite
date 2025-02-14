@@ -37,7 +37,7 @@ function App() {
               <li><Link to="/" style={{ textDecoration: 'none', color: '#fff' }}>Home</Link></li>
               <li><Link to="/projects" style={{ textDecoration: 'none', color: '#fff' }}>Projects</Link></li>
               <li><Link to="/background" style={{ textDecoration: 'none', color: '#fff' }}>Background</Link></li>
-              <li><a href="https://github.com/giancarloramirez" style={{ textDecoration: 'none', color: '#fff' }}>Repository</a></li>
+              <li><a href="https://github.com/Cordagr" style={{ textDecoration: 'none', color: '#fff' }}>Repository</a></li>
             </ul>
           </nav>
         </header>

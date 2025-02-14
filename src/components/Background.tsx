@@ -4,7 +4,7 @@ function Background() {
   return (
     <section id="background" style={{ 
       padding: '50px 20px',
-      backgroundColor: '#eaeaea',
+      backgroundColor: '#000',
       display: 'flex',
       justifyContent: 'center',
       boxSizing: 'border-box'

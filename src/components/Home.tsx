@@ -4,7 +4,7 @@ function Home() {
   return (
     <section style={{ 
       padding: '50px 20px',
-      backgroundColor: '#f4f4f4',
+      backgroundColor: '#f2f2f2',
       display: 'flex',
       justifyContent: 'center',
       boxSizing: 'border-box',
